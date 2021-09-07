@@ -1,0 +1,14 @@
+.pagewidth{
+    width: 350px;
+}
+.makeunderlined{
+    text-decoration:underline;
+}
+
+.makeorange{
+    background-color: orange
+}
+
+.makered{
+    color:red
+}
